@@ -1,0 +1,44 @@
+{
+  "pets": [
+    {
+      "id": "7eeb3096-dc39-484d-841e-8d2fdfcaf78d",
+      "name": "Firulais",
+      "age": "2",
+      "gender": "Masculino",
+      "date": "2023-10-20 10:30",
+      "owner": "Andres Perez"
+    },
+    {
+      "id": "d8769116-9062-47f2-9462-6095843868a1",
+      "name": "Michi",
+      "age": "3",
+      "gender": "Femenino",
+      "date": "2023-10-20 11:30",
+      "owner": "Sara Alvarez"
+    },
+    {
+      "id": "7e944968-620d-4337-affc-7d506a88856e",
+      "name": "Firulais",
+      "age": "2",
+      "gender": "masculino",
+      "date": "2023-10-05T22:10",
+      "owner": "Andres peralta"
+    },
+    {
+      "id": "8080bb6d-8cb3-47f4-9006-8805e107f60f",
+      "name": "Juan",
+      "age": "2",
+      "gender": "masculino",
+      "date": "2023-10-05T22:10",
+      "owner": "Andres peralta"
+    },
+    {
+      "id": "235fca44-4849-4b66-b740-8edb84b7a551",
+      "name": "Niño",
+      "age": "1",
+      "gender": "femenino",
+      "date": "2023-10-31T00:35",
+      "owner": "Gloria Maria Patiño"
+    }
+  ]
+}
